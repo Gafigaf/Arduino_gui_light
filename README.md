@@ -1,5 +1,5 @@
 
-## Arduino gui lamp
+## What is it?
 "Arduino GUI lamp" is a Python GUI created with QT Designer and programmed with arduino.
 
 ## How to use?
