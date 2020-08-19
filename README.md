@@ -12,3 +12,5 @@ arduinoSerial = serial.Serial('COM4',9600) #instead of COM 4 you must write your
 
 ```
 ## How to check? I can't open file in notepad!
+
+<img scr = "https://raw.githubusercontent.com/Gafigaf/Images/master/SCREEN.png">
