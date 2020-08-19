@@ -1,11 +1,11 @@
-int red = 3;
-int green = 5;
-int blue = 6;
-int netural = 11;
+int red = 3; //check your connections
+int green = 5; //check your connections
+int blue = 6; //check your connections
+int netural = 11; //check your connections
 char message;
 
 void setup() {
-Serial.begin(9600);
+Serial.begin(9600); //check
 pinMode(red,OUTPUT);
 pinMode(green,OUTPUT);
 pinMode(blue,OUTPUT);
