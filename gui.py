@@ -9,7 +9,7 @@ if __name__ == "__main__":
     ui = Ui_MainWindow()
     ui.setupUi(MainWindow)
     MainWindow.show()
-    arduinoSerial = serial.Serial('COM4',9600)
+    arduinoSerial = serial.Serial('COM4',9600) #instead of COM 4 you must write your port
     ui.comboBox.addItem("Гирлянда")
     ui.comboBox.addItems(["Мигалка","Переключение","Все режимы","Переливание" ,"Переливание2" ,"Переливание3 " ,"Переливание4" ,"Цикл переливаний"])
 
