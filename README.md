@@ -9,3 +9,6 @@ Download a "arduino_to_py" file and upload it on Your arduino,then download "rgb
 in notepad open "gui.py" file and check line 12,there are port where your arduino connected and bitraid,you also can see it in code.
 ```python
 arduinoSerial = serial.Serial('COM4',9600) #instead of COM 4 you must write your port
+
+```
+## How to check? I can't open file in notepad!
