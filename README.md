@@ -1,5 +1,5 @@
 
-## What is it?
+## What is it? <img src = "https://cdn.pixabay.com/photo/2015/11/06/13/29/union-jack-1027898_960_720.jpg" width = "100px" height = "100px">
 "Arduino GUI lamp" is a Python GUI created with QT Designer and programmed with arduino.
 
 ## How to use?
