@@ -19,3 +19,4 @@ video
 <img src = "https://github.com/Gafigaf/Images/blob/master/gif.gif?raw=true"></img>
 
 ## Что это?
+"Arduino GUI lamp" это программа написаная на Python,графичиский интерфейс сделан с помощью QT Designer,все это для ардуино
