@@ -18,5 +18,5 @@ video
 <img src="https://raw.githubusercontent.com/Gafigaf/Images/master/SCREEN.png"></img>
 <img src = "https://github.com/Gafigaf/Images/blob/master/gif.gif?raw=true"></img>
 
-## Что это? <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Russia.png/640px-Flag_of_Russia.png" width = "40px" height = "28px">
+## Что это? <img src = "https://freesvg.org/img/BevelledRussia.png" width = "40px" height = "28px">
 "Arduino GUI lamp" это программа написаная на Python,графичиский интерфейс сделан с помощью QT Designer,все это для ардуино
