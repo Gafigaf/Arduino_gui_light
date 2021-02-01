@@ -1,5 +1,5 @@
 
-## What is it? <img src = "https://cdn.pixabay.com/photo/2015/11/06/13/29/union-jack-1027898_960_720.jpg" width = "40px" height = "28px"> <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Flag_of_the_United_States_%283-2_aspect_ratio%29.svg/1280px-Flag_of_the_United_States_%283-2_aspect_ratio%29.svg.png" width = "40px" height = "28px"> 
+## What is it?<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Flag_of_the_United_States_%283-2_aspect_ratio%29.svg/1280px-Flag_of_the_United_States_%283-2_aspect_ratio%29.svg.png" width = "40px" height = "28px"> 
 "Arduino GUI lamp" is a Python GUI created with QT Designer and programmed with arduino.
 
 ## How to use?
