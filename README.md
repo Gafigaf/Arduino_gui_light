@@ -1,9 +1,9 @@
 
-## What is it?<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Flag_of_the_United_States_%283-2_aspect_ratio%29.svg/1280px-Flag_of_the_United_States_%283-2_aspect_ratio%29.svg.png" width = "40px" height = "28px"> 
+## What is it?
 "Arduino GUI lamp" is a Python GUI created with QT Designer and programmed with arduino.
 
 ## How to use?
-Download a "arduino_to_py" file and upload it on Your arduino,then download "rgb2",and "gui" files in Python extension. Launch "gui" file
+Download a "arduino_to_py" file and upload it on Your Arduino, then download "rgb2",and "gui" files in Python extension. Launch "gui" file
 
 ## Program is not working!
 in notepad open "gui.py" file and check line 12,there are port where your arduino connected and bitraid,you also can see it in code.
@@ -18,5 +18,8 @@ video
 <img src="https://raw.githubusercontent.com/Gafigaf/Images/master/SCREEN.png"></img>
 <img src = "https://github.com/Gafigaf/Images/blob/master/gif.gif?raw=true"></img>
 
-## Что это? <img src = "https://www.fingeralphabet.org/wp-content/uploads/2012/04/590px-Flag_of_Russia.jpg" width = "40px" height = "28px">
-"Arduino GUI lamp" это программа написаная на Python,графичиский интерфейс сделан с помощью QT Designer,все это для ардуино
+## Что это?
+"Arduino GUI lamp" - это программа написаная на Python,графичиский интерфейс сделан с помощью QT Designer.
+
+## Как использовать? 
+Скачайте файл «arduino_to_py» и загрузите его на свой Arduino, затем загрузите файлы «rgb2» и «gui» в расширении Python. Запустите файл "gui".
